@@ -1,0 +1,3 @@
+This exercise mostly went smoothe, the most thinking I had to do was around handling the various space amounts between data points.
+Once I figured that out everything went pretty smoothe. One thing I learned very early on is to never trust any input from the user.
+Whenever I think I fullproofed something the world invents a bigger "problem".

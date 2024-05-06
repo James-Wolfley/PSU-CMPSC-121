@@ -1,0 +1,5 @@
+This turned into more of a project then expected from the start.
+I think it turned out well, going back I might have done a couple
+things differently but all in it worked well. First time working with
+maps in c++. I am familar with key value pairs from other languages but
+a first for c++.

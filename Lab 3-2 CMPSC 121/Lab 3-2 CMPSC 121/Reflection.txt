@@ -1,0 +1,2 @@
+The biggest thing I learned during this activity is the amount of assumptions you need to make to format things properly is quite alot.
+Either of these programs I have wrote break if you input too large of a number due to limitations in the basic libraries I am using when it comes to terminal formatting.

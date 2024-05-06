@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CMPSC Activity 16", "CMPSC Activity 16\CMPSC Activity 16.vcxproj", "{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Debug|x64.ActiveCfg = Debug|x64
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Debug|x64.Build.0 = Debug|x64
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Debug|x86.ActiveCfg = Debug|Win32
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Debug|x86.Build.0 = Debug|Win32
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Release|x64.ActiveCfg = Release|x64
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Release|x64.Build.0 = Release|x64
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Release|x86.ActiveCfg = Release|Win32
+		{19CCBC3B-B138-4EF2-B2FD-BDB07A38CA89}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA594242-C9FA-4A69-95B1-7C5DC8E1A715}
+	EndGlobalSection
+EndGlobal

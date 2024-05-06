@@ -1,0 +1,2 @@
+This lab goes over alot of the same concepts as activity 7. It is a good example of something that can be done a ton of different ways some of which have trade offs between efficiency and readability.
+If the calculations we were doing in each case were more intensive I would have taken a different route but this code fits the job its required to do well.

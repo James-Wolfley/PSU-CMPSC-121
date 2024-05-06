@@ -1,0 +1,2 @@
+It was fun to learn about the techniques to calculate the day of the week, if we didn't have any info on it trying to solve it from scratch would be pretty difficult.
+I did alot of things inline here which makes it a little harder to read but not that bad and allowed me to not declare variables to use once and throw away.

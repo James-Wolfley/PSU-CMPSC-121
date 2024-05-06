@@ -1,0 +1,3 @@
+Went pretty smooth, I had a few bugs to work out and created a little more work
+for myself by not reading the instructions fully and had to refactor a bit but
+in the end it all went well.

@@ -1,0 +1,2 @@
+This lab uses loops to enter a variable amount of data. I am more used to storing this data in a database somewhere or an array atleast so I had to think about it in a slightly different manner when it came to averages and the like
+but all in all I feel like this lab went well and was a good exercise of loops.

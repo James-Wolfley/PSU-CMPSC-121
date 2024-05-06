@@ -1,0 +1,21 @@
+1.	Why did we pass the struct as a reference variable?
+Structs can be big and unweildy. Moving or copying them in memory can be taxing
+on the system so passing a reference when possible is prefered for perfomance
+
+
+
+2.	Why did we declare it as const? 
+To ensure it was not changed by the function although in this instace it wasn't super
+needed but the compiler can make optimizations with const that it cannot do with other
+things
+
+
+3.	Does it make sense to do both? Explain why it does or does not.
+In many cases yes, one thing that passing by reference opens you up to doing if you are
+not careful is modifying data in a function that may be used elsewhere before you get there
+so making it a const limits that and passing by ref is quicker since we only needed it for 
+ref anyway.
+
+
+Everything went smoothe except for an odd bug I made in the middle that was due to
+my own foolishness but other than that business as usual.
