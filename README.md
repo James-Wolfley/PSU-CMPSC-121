@@ -1,3 +1,6 @@
+# FOR EDUCATIONAL PURPOSES ONLY
+# I DO NOT CONDONE CHEATING
+
 # PSU CMPSC-121
  A collection of how I solved coding problems in CMPSC-121.
  All of this is for learning purposes only and not intended to be copied
